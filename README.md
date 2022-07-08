@@ -1,1 +1,4 @@
 # Flight-Delay-Predictions
+- **U.S. Domestic Flight Delay Prediction** is a Data Science Project working on U.S. domestic flight Data retrieved from U.S. Department of Transportation Bureau of Transportation Statistics. Project includes data preprocessing, exploratory data analysis, and data modeling stages.
+- This project aims to uncover certain trends from the flight data such as which airlines have the most delays, which destinations are most impacted, what are the causes of these delays, and how often delays occur, as well as build predictive classification models to predict on flight delay using flight characteristic and examine which model can predict flight delays the most accurate.
+- This project uses ***Python*** with libraries namely ***Numpy***, ***Pandas***, ***Seaborn***, and ***scikit-learn***.
